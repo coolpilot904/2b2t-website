@@ -1,2 +1,2 @@
 # 2b2t-website
-files to run your own copy of the famous 2b2t website
+This Github repository has all the files you need to run your own copy of the 2b2t website. It is great to use if you want to create a personal website for block game and want it to look like the original 2b2t site. I have been using apache to work on/ run mine. The files are from this snapshot of 2b2t.org on the internet archaive: https://web.archive.org/web/20151108021335/http://2b2t.org/.
